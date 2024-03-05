@@ -16,7 +16,7 @@ public class Lab02JPA03 {
         }
 
     }   
-    input1.close();
+
     }    
     
 }
